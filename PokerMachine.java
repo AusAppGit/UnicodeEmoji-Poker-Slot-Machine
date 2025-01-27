@@ -1,5 +1,4 @@
 package com.ausappgit.poksloma;
-import java.util.Scanner;
 
 /*
                 AusAppGit's Unicode Emoji Poker Slot Machine
