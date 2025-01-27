@@ -1,5 +1,5 @@
 # AusAppGit's Unicode Emoji Poker Slot Machine
-                      STEP RIGHT UP, TEST YOUR LUCK!!\
+STEP RIGHT UP, TEST YOUR LUCK!!\
 In order to begin your wild adventure of luck, daring and intrigue, the program requires
 you to input something.  Probably anything.\
 \
